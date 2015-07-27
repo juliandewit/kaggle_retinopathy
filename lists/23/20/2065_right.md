@@ -1,0 +1,10 @@
+## 2065_right Doc: 2 Pred: 3
+- [Back to confusion matrix](https://github.com/juliandewit/kaggle_retinopathy/blob/master/matrix.md)
+- [Back to list](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/23/list.md)
+- [Next example in list](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/23/20/20679_right.md)
+
+![Eye](https://retinopaty.blob.core.windows.net/size1024/2065_right_2.jpeg)
+
+### Other eye 2065_left Doc: 2 Pred: 3
+
+![Eye](https://retinopaty.blob.core.windows.net/size1024/2065_left_2.jpeg)
