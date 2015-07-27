@@ -22,7 +22,8 @@ The idea would be to allow people to comment on the predictions made by the algo
 |Doctor 3|[8](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/30/list.md)|[18](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/31/list.md)|[140](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/32/list.md)|[565](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/33/list.md)|[142](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/34/list.md)|
 |Doctor 4|[3](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/40/list.md)|[3](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/41/list.md)|[50](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/42/list.md)|[146](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/43/list.md)|[506](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/44/list.md)|
 
-
+##Problems that I encountered many times.
+- [Daniel Hammack](https://www.kaggle.com/dhammack)
 
 
 
