@@ -11,8 +11,8 @@ The question that keeps coming back to me was how practical an algorithm would b
 
 Now we come at the main issue. The algorithms had to match the labels provided by doctors.. However.. Doctors make mistakes.. and it turned out that sometimes the algorithm gets "downscored" while actually doing the right predictions.
 
-That's why dicided to put the [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) online.
-The idea would be to allow people to comment on the predictions made by the algorihtm and the labels given by the docters. All in all we might get a better feel about the practical use of automatic screening.
+That's why I dicided to put the [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) online.
+The idea would be to allow people to comment on the predictions made by the algorihtm and the labels given by the docters. All in all we might get a better feel about the practical use of automatic screening. Perhaps github is not ideal for this. if you got a better platform.. Please feel free to fork it an make a better experience !
 
 |   |Pred 0|Pred 1|Pred 2|Pred 3|Pred 4|
 |:-------|:----:|:----:|:----:|:----:|:----:|
