@@ -27,13 +27,12 @@ This is problably due to the fact that one small symptom might at once make it a
 Examples are [big bleedings] (https://www.google.nl/search?q=hemorrhages&espv=2&biw=1920&bih=1055&source=lnms&tbm=isch&sa=X&ved=0CAYQ_AUoAWoVChMImp_m27L7xgIVBpQsCh28NgzO#tbm=isch&q=hemorhages+retinopathy) and [Cotton wool spots](https://www.google.nl/search?q=hemorrhages&espv=2&biw=1920&bih=1055&source=lnms&tbm=isch&sa=X&ved=0CAYQ_AUoAWoVChMImp_m27L7xgIVBpQsCh28NgzO#tbm=isch&q=cotton+wool+spots+)
 
 ###Some examples that I encountered many times. There are many of them!.
-- [Image quality](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/20/10/10043_left.md)
-- [Cotton wool spots that are actually artefacts]( https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/20/10/10501_right.md)
-- [Another](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/20/10/10616_left.md)
-- 
-- 
-- [Bleedings that are actually artefacts](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/20/10/10671_right.md)
-- 
+[Image quality](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/20/10/10043_left.md)
+[Cotton wool spots that are actually artefacts]( https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/20/10/10501_right.md)
+[Another](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/20/10/10616_left.md)
+[Bleedings that are actually artefacts](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/20/10/10671_right.md)
+
+ 
 
 
 
