@@ -1,9 +1,11 @@
-# kaggle_retinopathy
-Results of the Kaggle diabetic retinopathy screening challenge
+# Diabetic retinopathy - Manual screening vs algorithms
+Last few months I've been participating in the ![Kaggle Diabetic Retinopathy challenge](https://www.kaggle.com/c/diabetic-retinopathy-detection).
 
-<a href="https://www.google.com" target="_blank">test</a>
-
-
+First of all this was a GREAT competition. I really had the feeling that I was helping to solve a problem that might improve the quality of life for millions of people. For a quick introduction see ![Wikipedia](https://en.wikipedia.org/wiki/Diabetic_retinopathy).
 
 
-![GitHub Logo](https://retinopaty.blob.core.windows.net/size1024/10007_right_0.jpeg)
+
+
+
+
+
