@@ -1,7 +1,7 @@
 ## 9298_right Doc: 4 Pred: 4
 - [Back to confusion matrix](https://github.com/juliandewit/kaggle_retinopathy/blob/master/matrix.md)
 - [Back to list](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/44/list.md)
-- [Next example in list](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/44/93/9353_right.md)
+- [Next example in list](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/44/93/9353_right.md) / [Previous example in list](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/44/92/9298_left.md)
 
 ![Eye](https://retinopaty.blob.core.windows.net/size1024/9298_right_4.jpeg)
 

@@ -1,10 +1,10 @@
 ## 7828_right Doc: 0 Pred: 1
 - [Back to confusion matrix](https://github.com/juliandewit/kaggle_retinopathy/blob/master/matrix.md)
 - [Back to list](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/01/list.md)
-- [Next example in list](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/01/78/7844_left.md)
+- [Next example in list](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/01/78/7844_left.md) / [Previous example in list](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/01/78/7825_left.md)
 
 ![Eye](https://retinopaty.blob.core.windows.net/size1024/7828_right_0.jpeg)
 
-### 
+### Other eye 7828_left Doc: 2 Pred: 2
 
-![Eye]()
+![Eye](https://retinopaty.blob.core.windows.net/size1024/7828_left_2.jpeg)
