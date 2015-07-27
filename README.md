@@ -30,6 +30,8 @@ Examples are [big bleedings] (https://www.google.nl/search?q=hemorrhages&espv=2&
 - [Image quality](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/20/10/10043_left.md)
 - [Cotton wool spots that are actually artefacts]( https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/20/10/10501_right.md)
 - [Another](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/20/10/10616_left.md)
+- 
+- 
 - [Bleedings that are actually artefacts](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/20/10/10671_right.md)
 - 
 
