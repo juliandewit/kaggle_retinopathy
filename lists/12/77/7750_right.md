@@ -7,4 +7,4 @@
 
 ### 
 
-![Eye](https://retinopaty.blob.core.windows.net/size1024/7750_left_1.jpeg)
+![Eye]()

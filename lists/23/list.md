@@ -12,6 +12,7 @@ If you want to comment on an image I can add you as a collaborator to the projec
 - [10438_left](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/23/10/10438_left.md)
 - [10454_left](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/23/10/10454_left.md)
 - [10592_left](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/23/10/10592_left.md)
+- [10592_right](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/23/10/10592_right.md)
 - [10680_left](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/23/10/10680_left.md)
 - [10680_right](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/23/10/10680_right.md)
 - [10924_left](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/23/10/10924_left.md)
