@@ -17,6 +17,10 @@ Now we come at the main issue. The algorithms had to match the labels provided b
 That's why I dicided to put the [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) online.
 The idea would be to allow people to comment on the predictions made by the algorihtm and the labels given by the docters. All in all we might get a better feel about the practical use of automatic screening. Perhaps github is not ideal for this. if you got a better platform.. Please feel free to fork it an make a better experience !
 
+<small>
+Rows : Labels given by doctors<br>
+Columns : Predicted labels by algorithm<br>
+</small>
 |   |Pred 0|Pred 1|Pred 2|Pred 3|Pred 4|
 |:-------|:----:|:----:|:----:|:----:|:----:|
 |Doctor 0|[24502](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/00/list.md)|[1116](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/01/list.md)|[186](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/02/list.md)|[5](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/03/list.md)|[1](https://github.com/juliandewit/kaggle_retinopathy/blob/master/lists/04/list.md)|
